@@ -1,0 +1,15 @@
+{
+  "name": "struct-ssh",
+  "version": "0.1.0",
+  "author": "Jason Chang",
+  "summary": "management of ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/systemonkey/puppet-ssh",
+  "project_page": "https://github.com/systemonkey/puppet-ssh",
+  "issues_url": "https://github.com/systemonkey/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
